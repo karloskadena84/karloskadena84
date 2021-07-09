@@ -1,12 +1,25 @@
+<body style="text-align:center;">
 <h1>HOLA! Soy Carlos</h1>
 
-- 👋 Hi, I’m @karloskadena84
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3>Alto, exitoso y adinerado... ese es Brad Pitt yo soy:</h3>
 
-<!---
-karloskadena84/karloskadena84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🎨 Diseñador Web
+
+📱 UX/UI
+
+💻 Maquetador FrontEnd
+
+💪🏼 Actualmente estoy estudiando: JS.
+
+🕵 Algunas de lar herramientas que sé manejar:
+
+HTML
+CSS
+JavaScript LOADING
+Framer / Adobe XD
+
+
+🔎 Gran apasionado por la solución estética y funcional de todas las cosas.
+
+🏆 Entre mis hobbies se encuentran: la tecnología, dibujar, la fotografía, montar en moto.
+</body>
