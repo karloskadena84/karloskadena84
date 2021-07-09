@@ -33,6 +33,7 @@
 
 - Framer / Adobe XD
 
+<br>
 
 🔎 Gran apasionado por la solución estética y funcional de todas las cosas.
 
