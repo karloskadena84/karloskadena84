@@ -2,7 +2,6 @@
 <h1>HOLA! Soy Carlos</h1>
 
 <h3>Alto, exitoso y adinerado... ese es Brad Pitt yo soy...</h3>
-<br>
 
 🎨 Diseñador Web
 
@@ -11,7 +10,7 @@
 💻 Maquetador FrontEnd
 
 💪🏼 Actualmente estoy estudiando: JS.
-
+<br>
 <h3> Algunas de lar herramientas que sé manejar: </h3>
 
 <h4> Diseño: </h4>
