@@ -29,7 +29,9 @@
 
 - CSS
 
-- JavaScript LOADING
+- SASS
+
+- JavaScript <b> LOADING <b>
 
 - Framer / Adobe XD
 
