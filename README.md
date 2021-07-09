@@ -10,10 +10,12 @@
 💻 Maquetador FrontEnd
 
 💪🏼 Actualmente estoy estudiando: JS.
-<br>
+
+
 <h3> Algunas de lar herramientas que sé manejar: </h3>
 
 <h4> Diseño: </h4>
+
 - Illustrator
  
 - Photoshop
@@ -22,6 +24,7 @@
 
 
 <h4> Código: </h4>
+
 - HTML
 
 - CSS
