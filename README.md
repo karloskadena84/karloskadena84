@@ -3,6 +3,7 @@
 
 <h3>Alto, exitoso y adinerado... ese es Brad Pitt yo soy...</h3>
 <br>
+
 🎨 Diseñador Web
 
 📱 UX/UI
@@ -15,14 +16,19 @@
 
 <h4> Diseño: </h4>
 - Illustrator
+ 
 - Photoshop
+
 - Premier
 
 
 <h4> Código: </h4>
 - HTML
+
 - CSS
+
 - JavaScript LOADING
+
 - Framer / Adobe XD
 
 
