@@ -7,7 +7,7 @@
 
 📱 UX/UI
 
-💻 Maquetador FrontEnd
+💻 Maquetador FrontEnd/VUE
 
 💪🏼 Actualmente estoy estudiando: JS.
 
