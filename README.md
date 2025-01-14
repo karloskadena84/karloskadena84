@@ -31,7 +31,9 @@
 
 - SASS
 
-- JavaScript <b> LOADING <b>
+- JavaScript
+
+- VUE
 
 - Framer / Adobe XD
 
